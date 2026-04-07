@@ -27,11 +27,22 @@
 文档结构：
 
 app.py---后端路由
+
 crawler.py---新闻抓取
+
 doc_web.py---报告生成
+
 draw_pyvis.py---实体网络图
+
 mask.png---词云掩膜
+
 my_wordcloud.py---词云生成
+
 pie_web.py---饼图
+
 save_stroge.py---保存自己的知乎登录信息
+
 zhihu_web.py---知乎抓取
+
+<img width="686" height="554" alt="image" src="https://github.com/user-attachments/assets/acdaac70-64a6-467b-b72b-a676e4052a96" />
+<img width="1710" height="846" alt="8c98118b-dab5-49d1-b105-910d3f293fe3" src="https://github.com/user-attachments/assets/4f948046-6850-4760-ae2c-2c2833b4701d" />
